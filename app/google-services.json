@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842119477214",
+    "project_id": "sermanna-f5a69",
+    "storage_bucket": "sermanna-f5a69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842119477214:android:67017eeb00543f64e2cf4f",
+        "android_client_info": {
+          "package_name": "com.example.sermanna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWXoT53zYryDmfoclUNtgEBjjPmqi69Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
